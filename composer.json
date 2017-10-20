@@ -1,0 +1,24 @@
+{
+    "name": "itosho/idol-ec-constants-php",
+    "authors": [
+        {
+            "name": "itosho"
+        }
+    ],
+    "require": {
+        "yosymfony/toml": "0.4.x-dev"
+    },
+    "require-dev": {
+        "yosymfony/toml": "0.4.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Itosho\\IdolEcConstantsPhp\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Itosho\\IdolEcConstantsPhp\\Test\\": "tests"
+        }
+    }
+}
