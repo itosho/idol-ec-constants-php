@@ -12,3 +12,8 @@ version = "1.0.0"
 1 = "guest"
 2 = "general"
 3 = "premium"
+
+# Auth Server
+[server]
+host = "api.example.com"
+port = 443
