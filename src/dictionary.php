@@ -1,6 +1,6 @@
 <?php
 
-namespace Itosho\IdolEcConstantsPhp\Constant;
+namespace Itosho\IdolEcConstantsPhp;
 
 require_once __DIR__ . "/../vendor/autoload.php";
 
