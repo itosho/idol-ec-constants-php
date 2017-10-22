@@ -2,11 +2,9 @@
 
 namespace Itosho\IdolEcConstantsPhp;
 
-require_once __DIR__ . "/../vendor/autoload.php";
-
 use Yosymfony\Toml\Toml;
 
-class Dictionary
+class ConstantsDictionary
 {
     private $constants;
 
